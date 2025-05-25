@@ -27,8 +27,8 @@ An Arduino-based project to manage car parking slots automatically using sensors
 - If parking is full, the system alerts the driver via buzzer and display.
 
 ## 📁 Code File
-See [`SmartCarParking.ino`](SmartCarParking.ino)
+See (CarParkingSystem.ino)
 
----
+
 
 Made with ❤️ by [Rikha Akther]

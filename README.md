@@ -29,6 +29,9 @@ An Arduino-based project to manage car parking slots automatically using sensors
 ## 📁 Code File
 See (CarParkingSystem.ino)
 
+## 🎥 Demo Video
+
+[![Watch the demo](https://www.youtube.com/watch?v=rGZhy_MevTw)
 
 
 Made with ❤️ by [Rikha Akther]
